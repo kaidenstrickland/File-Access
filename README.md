@@ -1,4 +1,4 @@
-<h1>Jira Support Tickets</h1>
+<h1 align="center">Support with Jira</h1>
 
 <h2>Objective</h2>
 The objective of this lab was to simulate file access problems through a help desk position. By utilizing Active Directory and Windows administrative tools from my lab environment, I aimed to restore user productivity through efficient troubleshooting of identity management and account access.
@@ -8,7 +8,7 @@ The objective of this lab was to simulate file access problems through a help de
 In this lab, I raised and responded to a support ticket detailing access needs for a restricted file while creating the restricted file and permissions. I was able to assign NFTS permissions through Security Groups, while enforcing policies such as least privilege by making sure only qualified users maintained access.
 <br />
 
-<h2 align="center">📝Ticket 1: File Access</h2>
+<h2 align="center">📝Ticket: File Access</h2>
 
 
 - <b>Issue Description:</b> User could not access the Marketing Finance file due to Active Directory Security Group and NFTS permissions.
@@ -31,7 +31,10 @@ In this lab, I raised and responded to a support ticket detailing access needs f
 <p align="center">
 
 <p align="center">
-<b>User ticket through Jira with blocking message.</b>
+  <img width="626" height="360" alt="image" src="https://github.com/user-attachments/assets/13a877bc-c19f-49da-8798-06576facc270" />
+  
+<p align="center">
+<b>Creation Ticket.</b>
 
 
 <p align="center">
@@ -55,6 +58,11 @@ In this lab, I raised and responded to a support ticket detailing access needs f
 <b>Adding new security group to file access list and removing unauthorized groups and users</b>
 
 <p align="center">
+<img width="542" height="206" alt="image" src="https://github.com/user-attachments/assets/a89225af-1d40-47f9-be35-7dfccbe779e3" />
+<p align="center">
+<b>Alane Dove restricted access.</b>
+
+<p align="center">
 <img width="423" height="153" alt="image" src="https://github.com/user-attachments/assets/0d48494f-2d43-4939-b4da-a2cbd368fd95" />
 <p align="center">
 <b>Adding user to the security group</b>
@@ -65,7 +73,7 @@ In this lab, I raised and responded to a support ticket detailing access needs f
 <b>Successful permissions update and file is accessible to the user</b>
 
 <p align="center">
-<img width="500" height="585" alt="image" src="https://github.com/user-attachments/assets/7e53f423-ad44-410f-b528-7fe34443b50f" />
+<img width="460" height="401" alt="image" src="https://github.com/user-attachments/assets/9266a982-7d1a-4757-a929-3ac65499e4a2" />
 <p align="center">
 <b>Ticket Resolution and Closure</b>
 <br />
